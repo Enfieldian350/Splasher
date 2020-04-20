@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Splasher</string>
+    <string name="codeText">CRAZY CODER</string>
+    <string name="contentText">Flash Image</string>
+    <string name="buttonText">SPLASH</string>
+    <string name="dashboardText">CRAZY CODER\'S DASHBOARD</string>
+    <string name="contentImage">android dev Image</string>
+</resources>
